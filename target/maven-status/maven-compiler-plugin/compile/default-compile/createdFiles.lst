@@ -1,0 +1,7 @@
+com\javatechie\spring\soap\api\loaneligibility\Acknowledgement.class
+com\javatechie\spring\soap\api\loaneligibility\CustomerRequest.class
+com\javatechie\spring\soap\api\loaneligibility\package-info.class
+com\javatechie\spring\soap\api\config\SoapConfig.class
+com\javatechie\spring\soap\api\clinet\SoapClinet.class
+com\javatechie\spring\soap\api\SpringBootSopaWsClientApplication.class
+com\javatechie\spring\soap\api\loaneligibility\ObjectFactory.class
